@@ -20,13 +20,13 @@
 			<h1>CART</h1>
 			<div class="img_left">
 				<img src="a.jpg" Border="0" Width="140" Height="100" title="" />
-				<h4>book</h4>
-				<h4>$22.00</h4>
+				<h3>book</h3>
+				<h3>$22.00</h3>
 			<br>
 			<div class="img_left">
 				<img src="a.jpg" Border="0" Width="140" Height="100" title="" />
-				<h4>book</h4>
-				<h4>$20.00</h4>
+				<h3>book</h3>
+				<h3>$20.00</h3>
 			<br>
 			<hr size="2" width="20%" align="left">
 				<h4>subtotal</h4>
