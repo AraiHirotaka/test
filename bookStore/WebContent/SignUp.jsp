@@ -24,7 +24,7 @@
 						<label for="password">Password </label>
 						<input type="password" name="password" placeholder="Your password">
 					</div>
-					<input type="submit" value="Login">
+					<input type="submit" value="Sign up">
 				</fieldset>
 			</form>
 			

@@ -1,4 +1,4 @@
-package bookStore;
+package bookStoreController;
 
 public class Sample {
 
