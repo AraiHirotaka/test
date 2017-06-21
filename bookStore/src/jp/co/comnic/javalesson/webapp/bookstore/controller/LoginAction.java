@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import jp.co.comnic.javalesson.webapp.bookstore.dao.AccountDao;
 import jp.co.comnic.javalesson.webapp.bookstore.dao.DaoException;
-import jp.co.comnic.javalesson.webapp.bookstore.entity.Account;
+import model.Account;
 
 /**
  * <p>ログイン認証処理を実行するActionインターフェイスの実装。</p>

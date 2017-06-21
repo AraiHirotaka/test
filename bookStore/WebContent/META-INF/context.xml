@@ -2,7 +2,7 @@
 	<Resource name="ds/bookstore"
 	          type="javax.sql.DataSource"
 	          driverClassName="com.mysql.jdbc.Driver"
-	          url="jdbc:mysql://192.168.78.128/bookstore"
+	          url="jdbc:mysql://192.168.15.129/bookstore"
 	          username="root"
 	          password="mariadb"
 	/>
