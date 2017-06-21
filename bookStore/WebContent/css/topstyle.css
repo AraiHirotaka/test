@@ -134,10 +134,10 @@ footer {
 }
 
 .search-box {
-	background: #FFD464;
+	/*background: #FFD464;*/
 	padding-left: 3px;
 	padding-bottom: 3px;
-	border: 0.3px solid #D0D0D0;
+	/*border: 0.3px solid #D0D0D0;*/
 	border-radius: 3px;
 }
 
