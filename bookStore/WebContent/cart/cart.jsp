@@ -18,13 +18,13 @@
 		</form>
 		<h1>CART</h1>
 		<div class="img_left"> 
-			<img src="a.jpg"Border="0" Width="150" Height="100" title="" />
+			<img src="a.jpg"Border="0" Width="150" Height="120" title="" />
 			<h4>name</h4>
 			<h4>price</h4>
 			<h4>quantity</h4>
 		<br>
 		<div class="img_left"> 
-			<img src="a.jpg"Border="0" Width="150" Height="100" title="" />
+			<img src="a.jpg"Border="0" Width="150" Height="120" title="" />
 			<h4>name</h4>
 			<h4>price</h4>
 			<h4>quantity</h4>
