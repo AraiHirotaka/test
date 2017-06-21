@@ -29,7 +29,10 @@
 	</jsp:include>
      <body>
      
-     
+      <jsp:include page="page-head.jsp">
+		<jsp:param name="title" value="Serch" />
+	</jsp:include>
+     <body>
      
      
      <h1>Hey!! What kind of book are you looking for?</h1>
