@@ -42,7 +42,7 @@
 			
 	</body>
 <form>
-	<INPUT TYPE="button" VALUE="Purchase"onClick="window.location.href='決算.jsp'">
+	<INPUT TYPE="button" VALUE="To Purchase"onClick="window.location.href='決算.jsp'">
 </form>
 
 </html>
