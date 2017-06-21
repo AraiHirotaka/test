@@ -14,7 +14,7 @@
 
 	　<body>
 		<form>
-			<INPUT TYPE="button" VALUE="Back to TopPage" onClick="window.location.href='Top.jsp'">
+			<INPUT TYPE="button" VALUE="Back to TopPage" onClick="window.location.href='./../Top.jsp'">
 		</form>
 		<h1>CART</h1>
 		<div class="img_left"> 

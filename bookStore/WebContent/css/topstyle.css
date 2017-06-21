@@ -1,5 +1,5 @@
 body {
-	background-image:url("sironeko.png");
+
 	margin: 0 auto;
 	margin-top: 20px;
 	width: 65%;
@@ -145,11 +145,7 @@ footer {
 	float: left;
 	height: 130px;
 	width: 270px;
-	border: 1px solid #DDDDDD;
 	margin: 5px;
-	padding: 5px;
-	background-image: url(img/box_bg.gif);
-	background-repeat: repeat-x;
 	background-position: bottom;
 }
 #base #wrap #contents #c_pad .box2 h3 {
@@ -224,12 +220,7 @@ strong {
 	margin-left: auto;
 	background-color: #FFFFFF;
 	margin-top: 0px;
-	border-right-width: 1px;
-	border-left-width: 1px;
-	border-right-style: solid;
-	border-left-style: solid;
-	border-right-color: #000000;
-	border-left-color: #000000;
+	
 }
 
 #wrap {
@@ -493,10 +484,10 @@ h1 a {
 -------------------------------------------------------------------*/
 #base #wrap #contents #c_pad .box2 {
 	float: left;
-	height: 300px;
-	width: 300px;
-	margin: 50px;
-	padding: 10px;
+	height: 200px;
+	width: 200px;
+	margin: 20px;
+	padding: 50px;
 	background-repeat: repeat-x;
 	background-position: bottom;
 }

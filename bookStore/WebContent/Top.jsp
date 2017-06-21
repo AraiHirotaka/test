@@ -13,6 +13,17 @@
           <title>TopPage</title>
      </head>
      <body>
+     
+     
+     
+      <h3>Site Menu</h3>
+        <ul>
+          <li><a href="#">TOP</a></li>
+          <li><a href="./cart/cart.jsp">Cart</a></li>
+          <li><a href="#">Account Sign up OR Sign in</a></li>
+
+        </ul>
+
      <h1>Hey!! What kind of book are you looking for?</h1>
      
      
@@ -50,7 +61,7 @@
 		  asshole.<br />
 		  <br />
 	    </div>
-		
+	
       </div>
        </div>
         </div>
