@@ -22,7 +22,7 @@
 		  <img src="a.jpg"Border="0" Width="300" Height="300" title="新井のページへ" />
 		  <h31>商品名:XXXXXXXX</h31><br><br>
 		  <h31>価格:XXXXXXXX　　</h31><br><br>
-		  <h31>書籍コード：XXXXXXXX</h31><br><br>
+		  <h31>書籍コード：XXXXXX</h31><br><br>
 		  <h31>著者名：XXXXXXXX</h31><br><br><br>
 		  
 		  <form>
