@@ -8,6 +8,7 @@
 	
 	<h3>Employee Management System</h3>
 	
+	
 	 <jsp:include page="header.jsp"> 
 		<jsp:param name="title" value="Sign Up" />
 	</jsp:include>  
