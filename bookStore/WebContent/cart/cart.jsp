@@ -15,15 +15,9 @@
 	
 	<body>
 		<form>
-<<<<<<< HEAD
-			<INPUT TYPE="button" VALUE="Back to TopPage"onClick="window.location.href='..\Top.jsp'">
-=======
-<<<<<<< HEAD
+
 			<INPUT TYPE="button" VALUE="Back to TopPage" onClick="window.location.href='./../Top.jsp'">
-=======
-			<INPUT TYPE="button" VALUE="Back to TopPage"onClick="window.location.href='Top.jsp'">
->>>>>>> branch 'master' of https://github.com/AraiHirotaka/test
->>>>>>> branch 'master' of https://github.com/AraiHirotaka/test
+
 		</form>
 			<h1>CART</h1>
 			<div class="img_left"><A Href="..\bookdetail\book_detail.jsp">
