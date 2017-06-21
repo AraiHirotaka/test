@@ -12,9 +12,9 @@
 		<title>PurchaseScreen</title>
 	</head>
 	<body>
-		
 		<h1>"Thank you for purchasing"</h1>
-	
-	
 	</body>
+	<form>
+		<INPUT TYPE="button" VALUE="Back To TopPage"onClick="window.location.href='./../Top.jsp'">
+	</form>
 </html>
