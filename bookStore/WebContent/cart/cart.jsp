@@ -15,30 +15,30 @@
 	
 	<body>
 		<form>
-			<INPUT TYPE="button" VALUE="Back to TopPage"onClick="window.location.href='Top.jsp'">
+			<INPUT TYPE="button" VALUE="Back to TopPage"onClick="window.location.href='..\Top.jsp'">
 		</form>
 			<h1>CART</h1>
-			<div class="img_left">
-				<img src="a.jpg" Border="0" Width="140" Height="100" title="" />
+			<div class="img_left"><A Href="..\bookdetail\book_detail.jsp">
+			<img src="a.jpg" Border="0" Width="140" Height="100" title="詳細情報" /></A></div>
 				<h3>book</h3>
 				<h3>$22.00</h3>
-			<br>
-			<div class="img_left">
-				<img src="a.jpg" Border="0" Width="140" Height="100" title="" />
+			<br/>
+			<div class="img_left"><A Href="..\bookdetail\book_detail.jsp">
+			<img src="a.jpg" Border="0" Width="140" Height="100" title="詳細情報" /></A></div>
 				<h3>book</h3>
 				<h3>$20.00</h3>
-			<br>
+			<br/>
 			<hr size="2" width="20%" align="left">
-				<h4>subtotal</h4>
+				<h4>*SubTotal*</h4>
 				<h4>$22.00</h4>
 				<h4>$20.00</h4>
 			<hr size="2" width="20%" align="left">
-				<h4>total</h4>
+				<h4>*Total*</h4>
 				<h4>$42.00</h4>
 			<hr size="2" width="20%" align="left">
-			<br>
+			<br/>
+			
 	</body>
-
 <form>
 	<INPUT TYPE="button" VALUE="Purchase"onClick="window.location.href='決算.jsp'">
 </form>
