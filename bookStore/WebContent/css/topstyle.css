@@ -1,0 +1,166 @@
+body {
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 65%;
+	color: #575757;
+	/* font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans Japanese", "ƒqƒ‰ƒMƒmŠpƒS ProN W3", Hiragino Kaku Gothic ProN, Arial, Meiryo, sans-serif;*/
+	font-family: 'Alex Brush', cursive;
+}
+
+a {
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a:link { color: #2260DD; }
+a:visited { color: #2260DD; }
+a:hover { color: #FFD700; }
+a:active { color: #FFD700; } 
+
+h1 { color: #1253A4;}
+h3 { text-align: center; }
+
+
+fieldset {
+	border: 1px solid #D0D0D0;
+	padding: 1em;
+	border-radius: 5px;
+}
+
+fieldset div {
+	display: flex;
+	padding-bottom: 0.4em;
+}
+
+
+
+table {
+	border-collapse: collapse;
+}
+
+td, th { padding: 0.2em 0.7em; }
+
+th {
+	border: 1px solid #D0D0D0;
+	font-size: 16px;
+	background: #F0F0F0;
+}
+
+td {
+	border: 1px solid #D0D0D0;
+	font-size: 16px;
+}
+
+form { padding-top: 1em; }
+
+label {
+	width: 10em;
+  	padding-right: 0.5em;
+}
+
+input[readonly] {
+	border: none;
+}
+
+input[type="date"] {
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans Japanese", "ƒqƒ‰ƒMƒmŠpƒS ProN W3", Hiragino Kaku Gothic ProN, Arial, Meiryo, sans-serif;
+}
+
+input[type="reset"], .button-panel input[type="submit"] {
+	border: 1px solid #2260DD;
+	background: #2260DD;
+	border-radius: 3px;
+	color: #FFF;
+	font-size: 16px;
+	padding: 1px 12px;
+	text-align: center;
+	cursor: pointer;
+}
+
+footer {
+	text-align: center;
+	font-size: 12px;
+	background: #D3D3D3;
+	color: #8B0000;
+	margin-top: 100px;
+}
+
+.error { color: red; }
+
+.login-panel input  {
+	flex: 1 1 auto;
+	font-size: 16px;
+	font-family: Verdana;
+}
+
+#new-button {
+	background: #2260DD;
+	border-radius: 3px;
+	color: #FFF;
+	font-size: 16px;
+	padding: 1px 12px;
+	text-align: center;
+}
+
+#menu-panel a {
+	font-size: 20px;
+}
+
+.button-panel {
+	background: #FFD464;
+	text-align: right;
+}
+
+.login-panel {
+	margin: 0 auto;
+	width: 50%;
+}
+
+.login-user {
+	color: #8B0000;
+}
+
+.search-box {
+	background: #FFD464;
+	padding-left: 3px;
+	padding-bottom: 3px;
+	border: 0.3px solid #D0D0D0;
+	border-radius: 3px;
+}
+
+.search-box form {
+	padding-top: 0;
+}
+
+.list-table {
+	margin-top: 10px;
+}
+
+.entry-form th {
+	text-align: right;
+}
+
+#base #wrap #contents #c_pad .box2 {
+	float: left;
+	height: 130px;
+	width: 270px;
+	border: 1px solid #DDDDDD;
+	margin: 5px;
+	padding: 5px;
+	background-image: url(img/box_bg.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+#base #wrap #contents #c_pad .box2 h3 {
+	margin: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #DCDBD8;
+	background-color: #7A7A76;
+	border-left-color: #CECDC8;
+	color: #FFFFFF;
+}
+
+#base #wrap #contents #c_pad .box2 p {
+	margin: 0px;
+}
