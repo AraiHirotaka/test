@@ -12,8 +12,8 @@
           
            <h3>Site Menu</h3>
         <ul>
-          <li><a href="#">TOP</a></li>
-          <li><a href="./cart/cart.jsp">Cart</a></li>
+          <li><a href="/bookStore/Top.jsp">TOP</a></li>
+          <li><a href="/bookStore/cart/cart.jsp">Cart</a></li>
           <li><a href="#">Account Sign up OR Sign in</a></li>
 
         </ul>
