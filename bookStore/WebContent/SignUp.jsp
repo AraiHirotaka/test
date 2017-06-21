@@ -12,14 +12,15 @@
 		<jsp:param name="title" value="Sign Up" />
 	</jsp:include>  
 	<body>
-		<div class="login-panel">
-			<h1>Login</h1>
+		<div class="Sign Up-panel">
+			<h1>Sign Up</h1>
 			<form action="insert.do" method="post">
 				<fieldset>
 					<div>
 						<label for="email">E-Mail </label>
 						<input name="email" placeholder="Your email" autofocus>
 					</div>
+					
 					<div>
 						<label for="password">Password </label>
 						<input type="password" name="password" placeholder="Your password">
