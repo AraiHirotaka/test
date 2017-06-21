@@ -23,7 +23,7 @@
 		  <h3></h3>
 		  
 		  <form>
-			<INPUT TYPE="button" VALUE="Add To Cart" onclick=alert('カートに追加されました')>
+			<INPUT TYPE="button" VALUE="Add To Cart" 　onclick=alert('カートに追加されました')>
 </form>
 
 		  
