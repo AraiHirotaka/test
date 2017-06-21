@@ -9,7 +9,7 @@
    	<!--  <link href="https://fonts.googleapis.com/earlyaccess/notosansjapanese.css" rel="stylesheet" /> -->
    	<!--  <link href="https://fonts.googleapis.com/css?family=Mogra" rel="stylesheet"> -->
    		  <link href="https://fonts.googleapis.com/css?family=Alex+Brush" rel="stylesheet"> 
-   		  <link rel="stylesheet" href="./css/topstyle.css">
+   		  <link rel="stylesheet" href="${pageContext.request.contextPath}/css/topstyle.css">
           <title>TopPage</title>
      </head>
      <body>
