@@ -4,7 +4,7 @@ public class SayHooooo {
 		
 		for (int i = 0; i < 5; i++) {
 			System.out.println("Say hooooo!!!");
-			System.out.println("Hoooooooo!!");
+			System.out.println("Ho!!");
 		}
 	}
 
