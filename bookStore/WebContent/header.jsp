@@ -14,8 +14,8 @@
         <ul>
           <li><a href="/bookStore/Top.jsp">TOP</a></li>
           <li><a href="/bookStore/cart/cart.jsp">Cart</a></li>
-          <li><a href="/bookStore/login.jsp">Account Sign up OR Sign in</a></li>
-
+          <li><a href="/bookStore/login.jsp">Sign in</a></li> 
+			<li><a href="/bookStore/SignUp.jsp">Account Sign up</a></li>
         </ul>
           
      </head>

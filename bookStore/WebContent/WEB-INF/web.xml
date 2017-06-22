@@ -24,6 +24,12 @@
 	</servlet-mapping>
 	
 	
+	<context-param>
+		<param-name>/ACCOUNT/insert.do</param-name>
+		<param-value>jp.co.comnic.javalesson.webapp.ems.controller.InsertAction</param-value>
+	</context-param>
+	
+	
 	
     <welcome-file-list>
          <welcome-file>Top.jsp</welcome-file>
