@@ -17,7 +17,7 @@ public class Account implements Serializable {
 	@Id
 	private String email;
 
-	private int password;
+	private String password;
 
 	//bi-directional many-to-many association to Book
 	@ManyToMany(mappedBy="accounts")
@@ -38,11 +38,11 @@ public class Account implements Serializable {
 		this.email = email;
 	}
 
-	public int getPassword() {
+	public String getPassword() {
 		return this.password;
 	}
 
-	public void setPassword(int password) {
+	public void setPassword(String password) {
 		this.password = password;
 	}
 
