@@ -23,7 +23,7 @@ import org.eclipse.persistence.exceptions.DatabaseException;
  */
 public class BaseDao {
 
-	protected EntityManager em = Persistence.createEntityManagerFactory("ems-v3").createEntityManager();
+	protected EntityManager em = Persistence.createEntityManagerFactory("bookstore").createEntityManager();
 	protected EntityTransaction tx = em.getTransaction();
 	protected CriteriaBuilder builder = em.getCriteriaBuilder();
 	
