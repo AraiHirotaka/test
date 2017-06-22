@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 	
-	<h3>Employee Management System</h3>
+	<h3>Login</h3>
 	
 	 <jsp:include page="header.jsp"> 
 		<jsp:param name="title" value="Login" />
